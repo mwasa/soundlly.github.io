@@ -7,8 +7,7 @@ permalink:           pretty
 title:               Soundlly
 tagline:             'Bring Your Video Viewers to Mobile with Inspration'
 description:         ''
-url:                 https://bitsound.io
-baseurl:             ''
+url:                 https://soundlly.github.io
 paginate:            5
 
 # About/contact
