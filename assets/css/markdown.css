@@ -1,5 +1,6 @@
 .container > .content h1,
 .container > .content h2 {
+  font-weight: bold;
   margin-top: 3rem;
   margin-bottom: 1rem;
 }
@@ -18,8 +19,6 @@
 .container > .content h4,
 .container > .content h5,
 .container > .content h6 {
+  font-family: "Nanum Gothic", Helvetica, Arial, sans-serif;
   line-height: 1.5;
-}
-.container > .content p {
-  line-height: 1.8;
 }
