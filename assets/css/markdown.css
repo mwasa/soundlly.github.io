@@ -1,0 +1,25 @@
+.container > .content h1,
+.container > .content h2 {
+  margin-top: 3rem;
+  margin-bottom: 1rem;
+}
+.container > .content h3,
+.container > .content h4 {
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+.container > .content h5,
+.container > .content h6 {
+  margin-top: 1rem;
+}
+.container > .content h1,
+.container > .content h2,
+.container > .content h3,
+.container > .content h4,
+.container > .content h5,
+.container > .content h6 {
+  line-height: 1.5;
+}
+.container > .content p {
+  line-height: 1.8;
+}
