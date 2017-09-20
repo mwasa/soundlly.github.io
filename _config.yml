@@ -7,6 +7,7 @@ tagline: 'inspires your video viewers to mobile'
 description: ''
 url: https://soundlly.github.io
 paginate: 5
+recruiting: true
 
 # Plugins
 plugins: [jekyll-paginate]

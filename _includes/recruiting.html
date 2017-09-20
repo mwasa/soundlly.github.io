@@ -1,0 +1,46 @@
+{% if site.recruiting %}
+<div class="recruiting">
+  <div class="horizon">
+    <span><i class="fa fa-bookmark-o" aria-hidden="true"></i></span>
+  </div>
+  <div class="description">
+    <h3>현재 사운들리는 실력있는 Java / Python 서버 개발자를 채용하고 있습니다</h3>
+    <p>사운들리와 함께 광고 시장의 변화를 느껴보고 싶은 분들은 언제든지 문을 두드려 주세요!</p>
+    <p>
+      <a href="https://www.rocketpunch.com/jobs/29983/%EC%9E%90%EB%B0%94%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%EC%9E%90">
+        <i class="fa fa-rocket" aria-hidden="true"></i>&nbsp;채용 링크 바로 가기&nbsp;<i class="fa fa-rocket" aria-hidden="true"></i>
+      </a>
+    </p>
+  </div>
+</div>
+
+<style>
+  div.recruiting {
+    margin-top: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+  }
+  div.recruiting div.horizon {
+    margin: 2rem auto;
+    position: relative;
+    z-index: 1;
+  }
+  div.recruiting div.horizon span {
+    background: #fff;
+    padding: 0 15px;
+    color: #aaa;
+  }
+  div.recruiting div.horizon:before {
+    border-top: 1px solid #ccc;
+    content:"";
+    margin: 0 auto;
+    position: absolute;
+    top: 50%; left: 0; right: 0; bottom: 0;
+    width: 100%;
+    z-index: -1;
+  }
+  div.recruiting div.description h3 {
+    font-weight: bold;
+  }
+</style>
+{% endif %}
