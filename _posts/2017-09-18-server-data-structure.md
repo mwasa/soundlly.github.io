@@ -3,6 +3,7 @@ layout: post
 title: 사운들리 데이터 서버 구조 잡기
 author: humbledude
 subdir: server-data-structure
+thumbnail: cloudcraft-log-servers-v2.png
 comments: true
 ---
 

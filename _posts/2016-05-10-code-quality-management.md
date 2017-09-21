@@ -3,6 +3,7 @@ layout: post
 title: 사운들리 코드 품질 관리 이야기
 author: humbledude
 subdir: code-quality-management
+thumbnail: soundlly-code-quality-management.png
 comments: true
 ---
 

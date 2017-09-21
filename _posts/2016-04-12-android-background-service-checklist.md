@@ -2,6 +2,7 @@
 layout: post
 title: 안드로이드 백그라운드 서비스 개발에서 고려할 점
 subdir: android-background-service-checklist
+thumbnail: android-background.png
 comments: true
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title: 사운들리 백엔드 이야기
 subdir: soundlly-backend-story
+thumbnail: soundlly-aws-blueprint.png
 comments: true
 ---
 

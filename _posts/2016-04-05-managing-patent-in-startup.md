@@ -3,6 +3,7 @@ layout: post
 title: 스타트업에서 특허를 관리하는 방법
 author: tae
 subdir: managing-patent-in-startup
+thumbnail: minimal-viable-product-henrik-kniberg.png
 comments: true
 ---
 

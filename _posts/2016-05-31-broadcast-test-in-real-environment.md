@@ -3,6 +3,7 @@ layout: post
 title: 사운들리 방송 송출테스트 이야기
 author: jae
 subdir: broadcast-test-in-real-environment
+thumbnail: overall.png
 comments: true
 ---
 

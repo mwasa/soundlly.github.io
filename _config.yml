@@ -3,11 +3,12 @@ permalink: pretty
 
 # Setup
 title: Soundlly
-tagline: 'inspires your video viewers to mobile'
-description: ''
+tagline: inspires your video viewers to mobile
+description: inspire your video viewers to mobile
 url: https://soundlly.github.io
 paginate: 5
 recruiting: true
+locale: ko_KR
 
 # Plugins
 plugins: [jekyll-paginate]
