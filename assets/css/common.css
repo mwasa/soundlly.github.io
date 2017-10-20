@@ -37,20 +37,27 @@
   border-bottom: 1px solid #eee;
 }
 .author-profile div.thumbnail {
-  display: inline-block;
-  vertical-align:top;
-  width: 30%;
-}
-.author-profile div.thumbnail > img {
-  margin: 0;
-  padding: 1.5rem 0.5rem;
-  border-radius: 50%;
+  float:left;
+  width: 20%;
+  padding: 1rem 0.5rem;
 }
 .author-profile div.description {
-  display: inline-block;
-  vertical-align:top;
-  width: 65%;
-  padding: 1.5rem 0.5rem;
+  float:right;
+  width: 80%;
+  padding: 1rem 0.5rem;
+}
+@media (min-width: 48em) {
+  .author-profile div.thumbnail {
+    padding: 2rem 1rem;
+  }
+  .author-profile div.description {
+    padding: 2rem 1rem;
+  }
+}
+
+.author-profile div.thumbnail > img {
+  margin: 0;
+  border-radius: 50%;
 }
 .author-profile .description > h2 {
   margin: 0 0 0.6rem;
