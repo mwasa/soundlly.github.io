@@ -1,12 +1,9 @@
 /* Declarative Font Family */
 .text-sans {
-  font-family: "Nanum Gothic", Helvetica, Arial, sans-serif;
-}
-.text-serif {
-  font-family: "Nanum Myeongjo", Georgia, "Times New Roman", serif;
+  font-family: "Noto Sans KR", Helvetica, Arial, sans-serif;
 }
 .text-mono {
-  font-family: "Nanum Gothic Coding", Menlo, Monaco, "Courier New", monospace;
+  font-family: "Roboto Mono", Menlo, Monaco, "Courier New", monospace;
 }
 .text-accent {
   color: #E43D32;
@@ -23,7 +20,7 @@
 }
 .author span {
   vertical-align:middle;
-  font-family: "Nanum Gothic", Helvetica, Arial, sans-serif;
+  font-family: "Noto Sans KR", Helvetica, Arial, sans-serif;
 }
 
 /* Post */

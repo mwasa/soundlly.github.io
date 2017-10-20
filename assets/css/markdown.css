@@ -1,17 +1,19 @@
 .container > .content h1,
 .container > .content h2 {
-  font-weight: bold;
   margin-top: 3rem;
   margin-bottom: 1rem;
+  font-weight: 400;
 }
-.container > .content h3,
-.container > .content h4 {
+.container > .content h3 {
   margin-top: 2rem;
   margin-bottom: 0.5rem;
+  font-weight: 500;
 }
+.container > .content h4,
 .container > .content h5,
 .container > .content h6 {
   margin-top: 1rem;
+  font-weight: 600;
 }
 .container > .content h1,
 .container > .content h2,
@@ -19,6 +21,5 @@
 .container > .content h4,
 .container > .content h5,
 .container > .content h6 {
-  font-family: "Nanum Gothic", Helvetica, Arial, sans-serif;
   line-height: 1.5;
 }
