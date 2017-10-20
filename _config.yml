@@ -100,7 +100,10 @@ authors:
   pjhjohn:
     nickname: pjhjohn
     fullname: 박준호
-    description: ''
+    description: >
+      사운들리에서 Android SDK 개발하고 있습니다<br>
+      딱히 안가리고 **이것저것** 합니다. 요새는 장고가 꿀잼<br>
+      인디음악을 좋아해서 **매일 한곡씩 [1일 1인디](https://www.facebook.com/indieperday/)에 업로드**하고 있습니다. **노동요 줍줍!!**
     gravatar: 9ebc92b0e36b0c5d3f134aeee5c92096
     email: pjhjohn@soundl.ly
     github: pjhjohn

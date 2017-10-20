@@ -34,24 +34,24 @@
 .author-profile {
   margin:0;
   padding: 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #ddd;
 }
 .author-profile div.thumbnail {
   float:left;
   width: 20%;
-  padding: 1rem 0.5rem;
+  padding: 0.5rem;
 }
 .author-profile div.description {
   float:right;
   width: 80%;
-  padding: 1rem 0.5rem;
+  padding: 0.5rem 0.5rem 0.5rem 0;
 }
 @media (min-width: 48em) {
   .author-profile div.thumbnail {
-    padding: 2rem 1rem;
+    padding: 1rem;
   }
   .author-profile div.description {
-    padding: 2rem 1rem;
+    padding: 1rem 1rem 1rem 0;
   }
 }
 
@@ -59,12 +59,8 @@
   margin: 0;
   border-radius: 50%;
 }
-.author-profile .description > h2 {
-  margin: 0 0 0.6rem;
-  word-wrap:break-word;
-}
-.author-profile .description > h4 {
-  margin: 0 0 1rem;
+.author-profile .description > h3 {
+  margin: 0;
   word-wrap:break-word;
 }
 .author-profile .description a i {
