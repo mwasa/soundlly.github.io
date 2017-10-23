@@ -195,7 +195,7 @@ Google은 충분한 기간동안 API를 선 공개하고 개발자들과의 소�
 
 개인적으로는 안드로이드 내부 동작 및 사소한 로그도 찾아보게 되었던 터라 나름 즐겁게 분석을 해보는 신선한 경험이었습니다. 본 포스트를 토대로 더 좋은 해결 방안이 있다면 꼭 공유해주시길 부탁합니다! 긴 글 읽어주셔서 감사합니다.
 
-## 참고자료
+## 참고자료 및 출처
 
 - [박상권의 삽질 블로그 :: 삼성 '스마트매니저' 푸시알림 차단이슈 대응하기](http://gun0912.tistory.com/64)
 - [Android Oreo :: 백그라운드 실행 제한](https://developer.android.com/about/versions/oreo/background.html)
@@ -203,3 +203,6 @@ Google은 충분한 기간동안 API를 선 공개하고 개발자들과의 소�
 - [Android Developers :: android.provider.Settings](https://developer.android.com/reference/android/provider/Settings.html)
 - [StackOverflow :: How many UIDs are possible in Android?](https://stackoverflow.com/a/8685751)
 - [StackOverflow :: Go to My app's App Permission screen](https://stackoverflow.com/a/32899317)
+- [Image :: 아서스 메네실](http://bbs.ruliweb.com/family/211/board/300075/read/22958983)
+- [Image :: 잉어킹 & 갸라도스](http://game.dailyesports.com/view.php?ud=2017021001585932300)
+- [Image :: 테이큰](https://twitter.com/byuljiggy/status/470793101993189377)
